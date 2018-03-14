@@ -3,7 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, Vibration } from 'react-native';
 import VideoScreen from './VideoScreen';
 
-// Camera boilerplate code is form Expo's Camera API and example app:
+// Camera boilerplate code is from Expo's Camera API and example app:
 // https://docs.expo.io/versions/latest/sdk/camera.html
 // https://github.com/expo/camerja
 
